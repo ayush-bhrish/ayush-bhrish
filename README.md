@@ -21,6 +21,6 @@
 
 - 📫 How to reach me: **[Contact](mailto:ayush.sahu@bhrish.com)**
 
-- 😄 Pronouns: **[ay - uu sh](https://www.pronouncenames.com/Ayush)**
+- 😄 Pronouns: **["ay - uu sh"](https://www.pronouncenames.com/Ayush)**
 
 - ⚡ Fun fact: **[i don't know](https://emojipedia.org/face-with-tears-of-joy)**
