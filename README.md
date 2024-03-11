@@ -7,6 +7,10 @@
    Thank You for taking the time to view my GitHub Profile! 
 </div>
 
+<div>
+   <img width="55%" align="right" alt="web development" src="https://github.com/iayushsahu/img-for-projects/blob/main/animation_500_kxa883sd.gif" />
+</div>
+
 <h2> About Me</h2>
 
 - 🔭 I’m currently working on **[Nestle](https://www.nestle.in/)** project
