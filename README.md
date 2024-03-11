@@ -8,7 +8,7 @@
 </div>
 
 <div>
-   <img width="55%" align="right" alt="web development" src="https://github.com/iayushsahu/img-for-projects/blob/main/animation_500_kxa883sd.gif" />
+   <img width="50%" align="right" alt="web development" src="https://github.com/iayushsahu/img-for-projects/blob/main/animation_500_kxa883sd.gif" />
 </div>
 
 <h2> About Me</h2>
