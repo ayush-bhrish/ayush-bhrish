@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello < Developers />! </h1>
+<p align='center'></p>
+<div size='20px'>
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Ayush+sahu;I+am+woring+in+chat+bot+team)](https://git.io/typing-svg)
+   <br>
+   Thank You for taking the time to view my GitHub Profile! 
+</div>
 
-<!--
-**ayush-bhrish/ayush-bhrish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> About Me</h2>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **[Nestle](https://www.nestle.in/)** project
+  
+- 🌱 I’m currently learning **[AI/ML](https://openai.com/)**
+  
+- 👯 I’m looking to collaborate on **[Artificial Intelligence](https://openai.com/)**
+  
+- 🤔 I’m looking for help with **[Artificial Intelligence](https://openai.com/)**
+  
+- 💬 Ask me about **[Chat-bot](https://en.wikipedia.org/wiki/Chatbot)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: **[Contact](mailto:ayush.sahu@bhrish.com)**
+
+- 😄 Pronouns: **[ay - uu sh](https://www.pronouncenames.com/Ayush)**
+
+- ⚡ Fun fact: **[i don't know](https://emojipedia.org/face-with-tears-of-joy)**
