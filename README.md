@@ -15,7 +15,7 @@
   
 - 👯 I’m looking to collaborate on **[Artificial Intelligence](https://openai.com/)**
   
-- 🤔 I’m looking for help with **[Artificial Intelligence](https://openai.com/)**
+- 🤔 I’m looking for help with **[AI](https://openai.com/)**
   
 - 💬 Ask me about **[Chat-bot](https://en.wikipedia.org/wiki/Chatbot)**
 
