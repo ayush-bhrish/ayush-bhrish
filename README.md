@@ -1,6 +1,7 @@
 <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello < Developers />! </h1>
 <p align='center'></p>
 <div size='20px'>
+   
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Ayush+sahu;I+am+woring+in+chat+bot+team)](https://git.io/typing-svg)
    <br>
    Thank You for taking the time to view my GitHub Profile! 
