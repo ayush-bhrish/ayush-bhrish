@@ -28,3 +28,5 @@
 - 😄 Pronouns: **["ay - uu sh"](https://www.pronouncenames.com/Ayush)**
 
 - ⚡ Fun fact: **[i don't know](https://emojipedia.org/face-with-tears-of-joy)**
+
+- 💁‍♂️ More: **[another world](https://iayushsahu.github.io/portfolio)** 
